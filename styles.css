@@ -1,0 +1,28 @@
+body {
+  background-color: #ffe6e6;
+}
+a{
+  font-family: Arial;
+  text-decoration:none;
+}
+p{
+  font-family: Arial;
+}
+li{
+  font-family: Arial;
+}
+table{
+  font-family: Arial;
+}
+
+hr { width: 5%;
+  border-style: dotted none none none;
+  border-width: 6px;
+  border-color: #ffe6e6;
+}
+h3{
+  color: #a685e2;
+}
+h1{
+  color: #6155a6;
+}
